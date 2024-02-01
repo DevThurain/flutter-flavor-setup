@@ -1,4 +1,4 @@
-package com.example.flutter_flavor_setup
+package com.thurain.flavor
 
 import io.flutter.embedding.android.FlutterActivity
 
