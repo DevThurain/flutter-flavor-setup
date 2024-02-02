@@ -1,0 +1,42 @@
+flavors:
+  qa:
+    app:
+      name: "Flavor(QA)"
+
+    android:
+      applicationId: "com.thurain.flavor.qa"
+      # firebase:
+      #   config: ".firebase/qa/google-services.json"
+    ios:
+      bundleId: "com.thurain.flavor.qa"
+      # firebase:
+      #   config: ".firebase/qa/firebase_app_id_file.json"
+
+
+
+  dev:
+    app:
+      name: "Flavor(DEV)"
+  
+    android:
+      applicationId: "com.thurain.flavor.dev"
+      # firebase:
+      #   config: ".firebase/dev/google-services.json"
+    ios:
+      bundleId: "com.thurain.flavor.dev"
+      # firebase:
+      #   config: ".firebase/dev/firebase_app_id_file.json"
+
+
+  prod:
+    app:
+      name: "Flavor"
+  
+    android:
+      applicationId: "com.thurain.flavor"
+      # firebase:
+      #   config: ".firebase/prod/google-services.json"
+    ios:
+      bundleId: "com.thurain.flavor"
+      # firebase:
+      #   config: ".firebase/prod/firebase_app_id_file.json"
