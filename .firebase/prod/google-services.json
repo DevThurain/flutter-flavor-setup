@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222219023280",
+    "project_id": "flavor-fd501",
+    "storage_bucket": "flavor-fd501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222219023280:android:2bb148395c9ff33b539c75",
+        "android_client_info": {
+          "package_name": "com.thurain.flavor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZABXh16nWPCwlC7HcItGF7x-1mBjABw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

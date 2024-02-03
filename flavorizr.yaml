@@ -5,12 +5,12 @@ flavors:
 
     android:
       applicationId: "com.thurain.flavor.qa"
-      # firebase:
-      #   config: ".firebase/qa/google-services.json"
+      firebase:
+        config: ".firebase/qa/google-services.json"
     ios:
       bundleId: "com.thurain.flavor.qa"
-      # firebase:
-      #   config: ".firebase/qa/firebase_app_id_file.json"
+      firebase:
+        config: ".firebase/qa/firebase_app_id_file.json"
 
 
 
@@ -20,12 +20,12 @@ flavors:
   
     android:
       applicationId: "com.thurain.flavor.dev"
-      # firebase:
-      #   config: ".firebase/dev/google-services.json"
+      firebase:
+        config: ".firebase/dev/google-services.json"
     ios:
       bundleId: "com.thurain.flavor.dev"
-      # firebase:
-      #   config: ".firebase/dev/firebase_app_id_file.json"
+      firebase:
+        config: ".firebase/dev/firebase_app_id_file.json"
 
 
   prod:
@@ -34,9 +34,9 @@ flavors:
   
     android:
       applicationId: "com.thurain.flavor"
-      # firebase:
-      #   config: ".firebase/prod/google-services.json"
+      firebase:
+        config: ".firebase/prod/google-services.json"
     ios:
       bundleId: "com.thurain.flavor"
-      # firebase:
-      #   config: ".firebase/prod/firebase_app_id_file.json"
+      firebase:
+        config: ".firebase/prod/firebase_app_id_file.json"
