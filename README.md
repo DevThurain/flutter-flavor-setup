@@ -91,6 +91,7 @@ Android Studio automatically generates a build profile, whereas VS Code requires
             "name": "Flavor",
             "request": "launch",
             "type": "dart",
+            "flutterMode": "release",
             "args": [
                 "-t",
                 "lib/main_prod.dart",
