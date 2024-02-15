@@ -127,7 +127,7 @@ flutter_launcher_icons:
 flutter pub run flutter_launcher_icons
 ```
 ## FlutterFire & Node.js 
-Before firebase setup to your flutter project, you need to install both Node.js and FlutterFire
+Before firebase setup to your flutter projects, you need to install both Node.js and FlutterFire
 - [Node.js Install](https://nodejs.org/en)
 - [FlutterFire Install](https://firebase.google.com/docs/flutter/setup?platform=ios)
 
